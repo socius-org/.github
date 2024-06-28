@@ -1,1 +1,1 @@
-socius is an AI research lab endorsed by the London School of Economics and Political Science. We create open-source AI models, toolkits, and datasets to empower social scientists seeking to integrate predictive power with interpretability. 
+socius is an independent AI research lab endorsed by the London School of Economics and Political Science. We create open-source AI models, toolkits, and datasets to empower social scientists seeking to integrate predictive power with interpretability. 
