@@ -1,1 +1,5 @@
-socius is an independent research lab supported by the London School of Economics and Political Science. The lab is rooted in social science principles, believing that AI development and deployment must be guided by robust theories and philosophies. We create tools and frameworks that both technical and social science researchers can confidently use and interpret. 
+We have a theory: Intelligence is too weird for one field to understand.
+
+So we experiment at the intersections — between every field that ever studied "thinking" and every machine that's trying to "think".
+
+An independent lab supported by LSE and LSE Generate.
